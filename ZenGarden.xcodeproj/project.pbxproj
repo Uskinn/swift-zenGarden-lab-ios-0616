@@ -11,6 +11,11 @@
 		1BA85B0D1D2574EF008D42CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA85B0C1D2574EF008D42CE /* ViewController.swift */; };
 		1BA85B121D2574EF008D42CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BA85B111D2574EF008D42CE /* Assets.xcassets */; };
 		1BA85B151D2574EF008D42CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BA85B131D2574EF008D42CE /* LaunchScreen.storyboard */; };
+		8A22BB861D3C349C001D979A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A22BB851D3C349C001D979A /* Main.storyboard */; };
+		8A22BB881D3C3526001D979A /* swordinrock.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A22BB871D3C3526001D979A /* swordinrock.png */; };
+		8A22BB8A1D3C3535001D979A /* shrub.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A22BB891D3C3535001D979A /* shrub.png */; };
+		8A22BB8C1D3C3542001D979A /* rock1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A22BB8B1D3C3542001D979A /* rock1.png */; };
+		8A22BB8E1D3C354E001D979A /* rake.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A22BB8D1D3C354E001D979A /* rake.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +25,11 @@
 		1BA85B111D2574EF008D42CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BA85B141D2574EF008D42CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BA85B161D2574EF008D42CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A22BB851D3C349C001D979A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		8A22BB871D3C3526001D979A /* swordinrock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = swordinrock.png; path = Assets.xcassets/swordinrock.imageset/swordinrock.png; sourceTree = "<group>"; };
+		8A22BB891D3C3535001D979A /* shrub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shrub.png; path = Assets.xcassets/shrub.imageset/shrub.png; sourceTree = "<group>"; };
+		8A22BB8B1D3C3542001D979A /* rock1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rock1.png; path = Assets.xcassets/rock1.imageset/rock1.png; sourceTree = "<group>"; };
+		8A22BB8D1D3C354E001D979A /* rake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rake.png; path = Assets.xcassets/rake.imageset/rake.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +64,11 @@
 			children = (
 				1BA85B0A1D2574EF008D42CE /* AppDelegate.swift */,
 				1BA85B0C1D2574EF008D42CE /* ViewController.swift */,
+				8A22BB851D3C349C001D979A /* Main.storyboard */,
+				8A22BB871D3C3526001D979A /* swordinrock.png */,
+				8A22BB8D1D3C354E001D979A /* rake.png */,
+				8A22BB891D3C3535001D979A /* shrub.png */,
+				8A22BB8B1D3C3542001D979A /* rock1.png */,
 				1BA85B111D2574EF008D42CE /* Assets.xcassets */,
 				1BA85B131D2574EF008D42CE /* LaunchScreen.storyboard */,
 				1BA85B161D2574EF008D42CE /* Info.plist */,
@@ -119,8 +134,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A22BB8C1D3C3542001D979A /* rock1.png in Resources */,
 				1BA85B151D2574EF008D42CE /* LaunchScreen.storyboard in Resources */,
 				1BA85B121D2574EF008D42CE /* Assets.xcassets in Resources */,
+				8A22BB861D3C349C001D979A /* Main.storyboard in Resources */,
+				8A22BB8A1D3C3535001D979A /* shrub.png in Resources */,
+				8A22BB881D3C3526001D979A /* swordinrock.png in Resources */,
+				8A22BB8E1D3C354E001D979A /* rake.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
